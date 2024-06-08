@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="installing_git">
+    <title>Installing Git</title>
+    <shortdesc>Git is a version control system essential for managing code.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>In the Terminal, install Git using Homebrew:</cmd>
+                <info>
+                    <codeblock id="codeblock_ibt_cgc_rbc">brew install git</codeblock>
+                </info>
+            </step>
+            <step>
+                <cmd>Verify the installation:</cmd>
+                <info>
+                    <codeblock id="codeblock_ep3_dgc_rbc">git --version</codeblock>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

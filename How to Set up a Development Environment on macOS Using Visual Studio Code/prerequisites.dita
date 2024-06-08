@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="prerequisites">
+    <title>Prerequisites</title>
+    <body>
+        <p>Before we begin, ensure you have the following:</p>
+        <ul>
+            <li>A Mac running macOS 10.15 (Catalina) or later.</li>
+            <li>An internet connection.</li>
+            <li>Basic understanding of the terminal.</li>
+        </ul>
+    </body>
+</topic>

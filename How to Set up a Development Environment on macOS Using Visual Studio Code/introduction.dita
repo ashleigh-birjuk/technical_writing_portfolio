@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="introduction">
+    <title>Introduction</title>
+    <body>
+        <p>Setting up a development environment is a crucial step for any developer. A well-configured environment enhances productivity and reduces errors. In this guide, we'll walk you through setting up a development environment on macOS using Visual Studio Code (VS Code), a popular and powerful code editor.</p>
+    </body>
+</topic>
