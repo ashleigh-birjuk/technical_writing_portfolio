@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="setting_up_python">
+    <title>Setting Up a Python Environment in Visual Studio Code</title>
+    <shortdesc>Python is a popular programming language for various applications.</shortdesc>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>Install Python using Homebrew:</cmd>
+                <info>
+                    <codeblock id="codeblock_bxs_pjc_rbc">brew install python</codeblock>
+                </info>
+            </step>
+            <step>
+                <cmd>Open VS Code and install the Python extension:</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Go to the Extensions view by clicking the square icon in the sidebar.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Search for "Python" and install the extension by Microsoft.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Configure the Python interpreter:</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>Open the Command Palette (Cmd+Shift+P) and type "Python: Select Interpreter".</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>Select the installed Python interpreter.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

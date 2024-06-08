@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title></title>
+    <topichead navtitle="Introduction">
+        <topicref href="introduction.dita"/>
+    </topichead>
+    <topichead navtitle="Prerequisites">
+        <topicref href="prerequisites.dita"/>
+    </topichead>
+    <topichead navtitle="Installing GIT">
+        <topicref href="installing_git.dita"/>
+    </topichead>
+    <topichead navtitle="Installing Homebrew ">
+        <topicref href="installing_homebrew.dita"/>
+    </topichead>
+    <topichead navtitle="Installing VS Code">
+        <topicref href="installing_vs_code.dita"/>
+    </topichead>
+    <topichead navtitle="Setting Up Python Environment in VS Code Topic File ">
+        <topicref href="setting_up_python_environment_in_vs_code.dita"/>
+    </topichead>
+    <topichead navtitle="Configuring Extensions in VS Code Topic File ">
+        <topicref href="configuring_extensions_in_vs_code.dita"/>
+    </topichead>
+    <topichead navtitle="Conclusion"/>
+</map>
