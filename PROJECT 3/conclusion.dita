@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="conclusion">
-    <title>Conclusion</title>
-    <body>
-        <p>In this guide, we've set up a development environment on macOS using Visual Studio Code. With Homebrew, Git, Python, and essential extensions, you're ready to start coding efficiently.</p>
-    </body>
-</topic>
