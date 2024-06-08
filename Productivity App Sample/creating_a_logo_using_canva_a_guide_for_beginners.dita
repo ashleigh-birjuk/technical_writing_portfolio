@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="creating-a-logo-using-canva">
+    <title>Creating a Logo Using Canva: A Guide for Beginners</title>
+    <shortdesc>This guide aims to help non-experts create a logo using Canva.</shortdesc>
+    <taskbody>
+        <context>
+            <p>This guide provides detailed instructions for each step of the logo creation process
+                in Canva.</p>
+            <p>Welcome to the world of graphic design! In this guide, we'll walk you through the
+                process of creating a stunning logo for your brand using the user-friendly Canva
+                platform. Whether you're starting a new business or revamping your existing brand,
+                Canva makes it easy for non-experts to design professional-looking logos.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>Go to Canva's website and create an account.</cmd>
+                <info>
+                    <p>Visit Canva's website (https://www.canva.com/) and sign up for a free
+                        account.</p>
+                    <p>Once you've signed up, log in to access your dashboard.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Click on "Create a design" located at the top right corner.</cmd>
+                <info>
+                    <p>Choose the "Logo" option from the available design types, or type "Logo" in
+                        the search bar to find it.</p>
+                    <p>If you require specific dimensions, select "Custom size" and enter the
+                        required measurements.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Browse through the pre-designed logo templates to find one that suits your
+                    brand.</cmd>
+                <info>
+                    <p>Click on a template to open it in the editor.</p>
+                </info>
+            </step>
+            <step>
+                <cmd>Customize your logo.</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>To change the text, click inside the textbox and type your text.</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>To adjust font sizes, styles, and colors</cmd>
+                        <info>
+                            <p>Highlight the text. Use the options in the toolbar at the top to make
+                                changes.</p>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>In the "Elements" tab, search for icons, illustrations, or graphics
+                            that suit your brand.</cmd>
+                        <info>
+                            <p>Click on the desired element to add it to your logo.</p>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>To resize and reposition elements</cmd>
+                        <info>
+                            <p>Click on the element. Use the corner handles to resize, and drag to
+                                reposition.</p>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>Customize the color scheme to match your brand or personal
+                            preferences.</cmd>
+                        <info>
+                            <p>To change text, background, and graphic colors: Select the element
+                                you want to change. Use the color palette at the top to choose the
+                                desired color.</p>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>If you have your own images</cmd>
+                        <info>
+                            <p>Go to the "Uploads" tab. Click on the "Upload files" button and
+                                select the image from your computer. Once uploaded, click on the
+                                image to add it to your logo.</p>
+                        </info>
+                    </substep>
+                    <substep>
+                        <cmd>To add a frame to your picture</cmd>
+                        <info>
+                            <p>Click on the “elements” tab, scroll down until you see “Frames” and
+                                then select the shape. Drag the image onto the frame. It will snap
+                                to the shape.</p>
+                        </info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>Save and download your logo.</cmd>
+                <info>
+                    <p>Once you're satisfied with your logo: Click the “File” button located at the
+                        top left. Enter a new name for your design and click "Save."</p>
+                    <p>To download your logo: Click the "File" button. Then click “Download”. Select
+                        your preferred file format (PNG, JPG, or PDF) and click "Download."</p>
+                    <note id="note_sv2_l4x_qbc">Tips for a Great Logo</note>
+                </info>
+                <info>
+                    <p>Keep it simple: A clean and straightforward design is often more
+                        effective.</p>
+                    <p>Ensure readability: Choose fonts and colors that make your text easily
+                        readable.</p>
+                    <p>Reflect your brand: Use elements that represent your brand's personality and
+                        values.</p>
+                </info>
+            </step>
+        </steps>
+        <result id="result_zyn_p4x_qbc">
+            <p>Congratulations! You've successfully created your own logo using Canva. Don't be
+                afraid to experiment with different elements until you find the perfect design for
+                your brand.</p>
+        </result>
+    </taskbody>
+</task>

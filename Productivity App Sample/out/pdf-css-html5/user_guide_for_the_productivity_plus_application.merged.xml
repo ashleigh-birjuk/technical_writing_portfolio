@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Author/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Author/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Author/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Author/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Author/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/Users/ashe/Library/Mobile%20Documents/com~apple~CloudDocs/DOC/A%20/DITA%20Portfolio%20Item%201/user_guide_for_the_productivity_plus_application.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">User Guide for the Productivity Plus Application</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">User Guide for the Productivity Plus Application</title>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Introduction"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d93e14">Introduction</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_1" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="introduction"><resourceid appid="introduction" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Introduction</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Welcome to the <b class="+ topic/ph hi-d/b ">Productivity Plus</b> User Guide!</shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Getting Started"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d93e30">Getting Started</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="why-get-started"><resourceid appid="why-get-started" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">Why Get Started with Productivity Plus?</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">     </shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="getting-started"><resourceid appid="getting-started" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">How to Install Productivity Plus</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "> Learn how to install <b class="+ topic/ph hi-d/b ">Productivity Plus</b> with this step-by-step guide. Follow         these instructions to download the installer, run the installation wizard, and launch the         application on your system. </shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="Key Features Overview"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d93e57">Key Features Overview</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_4" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="features-overview"><resourceid appid="features-overview" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">Features Overview</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">        This section provides an overview of the key features of <b class="+ topic/ph hi-d/b ">Productivity Plus</b>, helping users understand the main functionalities available to enhance their productivity.     </shortdesc></topicmeta></topicref></topichead>
+    <topichead is-chapter="true" class="+ map/topicref mapgroup-d/topichead " navtitle="How to Create and Manage Tasks"><topicmeta class="- map/topicmeta "><navtitle class="- topic/navtitle " href="#d93e73">How to Create and Manage Tasks</navtitle></topicmeta><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="task-management"><resourceid appid="task-management" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">How to Create and Manage Tasks</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">         <p class="- topic/p ">Learn how to create and manage tasks in <b class="+ topic/ph hi-d/b ">Productivity Plus</b> to stay organized and efficient.</p>     </shortdesc></topicmeta></topicref></topichead>
+</opentopic:map><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d93e14" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Introduction</ph></title><topic class="- topic/topic " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="introduction" oid="introduction" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Introduction</ph></title>
+    <shortdesc class="- topic/shortdesc ">Welcome to the <b class="+ topic/ph hi-d/b ">Productivity Plus</b> User Guide!</shortdesc>
+    <body class="- topic/body ">
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Productivity Plus</b> is a powerful productivity tool designed to help individuals and teams organize tasks, manage time efficiently, and collaborate seamlessly. Whether you're a freelancer managing multiple projects or a team leader overseeing a group of employees, <b class="+ topic/ph hi-d/b ">Productivity Plus</b> provides the tools you need to stay organized and productive.</p>
+        
+        <p class="- topic/p ">This user guide serves as a comprehensive resource to help you make the most out of <b class="+ topic/ph hi-d/b ">Productivity Plus</b>. From getting started with the installation process to mastering advanced features, you'll find everything you need to know to harness the full potential of this software.</p>
+        
+        <p class="- topic/p ">Let's dive in and explore how <b class="+ topic/ph hi-d/b ">Productivity Plus</b> can transform the way you work and help you achieve your goals with ease and efficiency.</p>
+    </body>
+</topic></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d93e30" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Getting Started</ph></title><concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="why-get-started" oid="why-get-started" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Why Get Started with Productivity Plus?</ph></title>
+    <shortdesc class="- topic/shortdesc ">
+    </shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Productivity Plus</b> is designed to help users streamline their workflow, manage tasks effectively, and collaborate seamlessly with team members. Here are some key reasons to get started with <b class="+ topic/ph hi-d/b ">Productivity Plus</b>:</p>
+        
+        <section class="- topic/section ">
+            <title class="- topic/title ">Comprehensive Task Management</title>
+            <p class="- topic/p "><b class="+ topic/ph hi-d/b ">Productivity Plus</b> offers a range of tools to manage tasks efficiently:</p>
+            <ul class="- topic/ul ">
+                <li class="- topic/li ">Create and organize task lists to keep track of different projects or categories.</li>
+                <li class="- topic/li ">Use labels to categorize and prioritize tasks based on importance and urgency.</li>
+                <li class="- topic/li ">Set due dates to ensure timely completion of tasks.</li>
+                <li class="- topic/li ">Break down complex tasks into smaller, manageable subtasks for better clarity.</li>
+            </ul>
+        </section>
+        
+        <section class="- topic/section ">
+            <title class="- topic/title ">Effective Time Tracking</title>
+            <p class="- topic/p ">Monitor and analyze the time spent on tasks to improve productivity:</p>
+            <ul class="- topic/ul ">
+                <li class="- topic/li ">Start and stop timers to track the duration of tasks.</li>
+                <li class="- topic/li ">Generate detailed reports to review time spent on various tasks and projects.</li>
+                <li class="- topic/li ">Maintain logs of time entries for accurate tracking and billing purposes.</li>
+            </ul>
+        </section>
+        
+        <section class="- topic/section ">
+            <title class="- topic/title ">Timely Reminders and Notifications</title>
+            <p class="- topic/p ">Stay on top of your tasks with timely reminders and notifications:</p>
+            <ul class="- topic/ul ">
+                <li class="- topic/li ">Set reminders for important tasks and deadlines to avoid missing them.</li>
+                <li class="- topic/li ">Receive notifications for upcoming tasks, due dates, and updates from team members.</li>
+                <li class="- topic/li ">Get email alerts for critical updates and reminders directly in your inbox.</li>
+            </ul>
+        </section>
+        
+        <section class="- topic/section ">
+            <title class="- topic/title ">Seamless Collaboration</title>
+            <p class="- topic/p ">Collaborate effectively with team members in real-time:</p>
+            <ul class="- topic/ul ">
+                <li class="- topic/li ">Share projects with team members to collaborate on tasks and projects.</li>
+                <li class="- topic/li ">Add comments to tasks to provide feedback, updates, and collaborate with ease.</li>
+                <li class="- topic/li ">See real-time updates and changes made by team members for better coordination.</li>
+                <li class="- topic/li ">Set permissions and access levels to control who can view or edit tasks and projects.</li>
+            </ul>
+        </section>
+        
+        <section class="- topic/section ">
+            <title class="- topic/title ">Powerful Integrations</title>
+            <p class="- topic/p ">Enhance productivity by integrating <b class="+ topic/ph hi-d/b ">Productivity Plus</b> with other tools and services:</p>
+            <ul class="- topic/ul ">
+                <li class="- topic/li ">Sync tasks and due dates with your calendar for better time management.</li>
+                <li class="- topic/li ">Create tasks from emails and get notifications in your inbox through email integration.</li>
+                <li class="- topic/li ">Connect with popular third-party applications to streamline your workflow.</li>
+                <li class="- topic/li ">Use API access to build custom integrations and automations tailored to your needs.</li>
+            </ul>
+        </section>
+        <section class="- topic/section ">
+            <p class="- topic/p ">By getting started with <b class="+ topic/ph hi-d/b ">Productivity Plus</b>, you'll have a powerful tool at your disposal to manage your tasks efficiently, collaborate with your team, and enhance your overall productivity.</p>
+        </section>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="getting-started" oid="getting-started" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Install Productivity Plus</ph></title>
+    <shortdesc class="- topic/shortdesc "> Learn how to install <b class="+ topic/ph hi-d/b ">Productivity Plus</b> with this step-by-step guide. Follow
+        these instructions to download the installer, run the installation wizard, and launch the
+        application on your system. </shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <prereq class="- topic/section task/prereq " id="unique_3_Connect_42_prereq_owh_q1p_qbc" nd:nd-id="prereq_owh_q1p_qbc">
+            <p class="- topic/p ">To install <b class="+ topic/ph hi-d/b ">Productivity Plus</b>, you must have access to the official website to
+                download the installer and permission to install the software onto your system.</p>
+        </prereq>
+        <steps class="- topic/ol task/steps " id="unique_3_Connect_42_steps_pwh_q1p_qbc" nd:nd-id="steps_pwh_q1p_qbc">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Download the installer:</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_3_Connect_42_substeps_qwh_q1p_qbc" nd:nd-id="substeps_qwh_q1p_qbc">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Go to the official website of <b class="+ topic/ph hi-d/b ">Productivity Plus</b>.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Navigate to the download section.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Download the installer file for your operating system
+                            (Windows/Mac/Linux).</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Click on the download link to initiate the download process.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Run the Installer:</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_3_Connect_42_substeps_rwh_q1p_qbc" nd:nd-id="substeps_rwh_q1p_qbc">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Once the download is complete, locate the installer file in your
+                            Downloads folder or the location specified during the download.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Double-click on the installer file to launch the installation
+                            wizard.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Accept the license agreement if prompted.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Choose the installation directory (or use the default location).</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Click "Install" to begin the installation process.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">Launch <b class="+ topic/ph hi-d/b ">Productivity Plus</b>:</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_3_Connect_42_substeps_swh_q1p_qbc" nd:nd-id="substeps_swh_q1p_qbc">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">After the installation is complete, locate the <b class="+ topic/ph hi-d/b ">Productivity Plus</b>
+                            icon on your desktop or in the Start menu (Windows) / Applications
+                            folder (Mac).</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Double-click on the icon to launch the application.</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">Alternatively, you can launch <b class="+ topic/ph hi-d/b ">Productivity Plus</b> from the
+                            installation directory.</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+        <result class="- topic/section task/result " id="unique_3_Connect_42_result_twh_q1p_qbc" nd:nd-id="result_twh_q1p_qbc">
+            <p class="- topic/p ">By following these steps, you'll be able to install <b class="+ topic/ph hi-d/b ">Productivity Plus</b> on your
+                system smoothly and efficiently.</p>
+        </result>
+        <example class="- topic/example " id="unique_3_Connect_42_example_uwh_q1p_qbc" nd:nd-id="example_uwh_q1p_qbc">
+            <title class="- topic/title ">Example</title>
+            <p class="- topic/p ">For a detailed walkthrough, watch the following video guide: <xref class="- topic/xref " format="html" href="installation-video-guide" scope="external"><?ditaot usertext?>Installation
+                    Video Guide</xref>.</p>
+        </example>
+    </taskbody>
+</task></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d93e57" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Key Features Overview</ph></title><topic class="- topic/topic " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="features-overview" oid="features-overview" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Features Overview</ph></title>
+    <shortdesc class="- topic/shortdesc ">
+       This section provides an overview of the key features of <b class="+ topic/ph hi-d/b ">Productivity Plus</b>, helping users understand the main functionalities available to enhance their productivity.
+    </shortdesc>
+    <body class="- topic/body ">
+        <section class="- topic/section ">
+            <title class="- topic/title ">Task Management</title>
+            <p class="- topic/p ">Organize tasks efficiently using various tools and options:</p>
+            <ul class="- topic/ul ">
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Lists:</b> Create and manage task lists to keep track of different projects or categories.</li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Labels:</b> Use labels to categorize and prioritize tasks.</li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Due Dates:</b> Set due dates to ensure tasks are completed on time.</li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Subtasks:</b> Break down complex tasks into smaller, manageable subtasks.</li>
+            </ul>
+        </section>
+        
+        <section class="- topic/section ">
+            <title class="- topic/title ">Time Tracking</title>
+            <p class="- topic/p ">Monitor and analyze the time spent on tasks:</p>
+            <ul class="- topic/ul ">
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Timers:</b> Start and stop timers to track the duration of tasks.</li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Reports:</b> Generate reports to review time spent on various tasks and projects.</li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Logs:</b> Maintain logs of time entries for accurate tracking and billing.</li>
+            </ul>
+        </section>
+        
+        <section class="- topic/section ">
+            <title class="- topic/title ">Reminders and Notifications</title>
+            <p class="- topic/p ">Stay on top of your tasks with timely reminders and notifications:</p>
+            <ul class="- topic/ul ">
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Reminders:</b> Set reminders for important tasks and deadlines.</li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Notifications:</b> Receive notifications for upcoming tasks, due dates, and updates from team members.</li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Email Alerts:</b> Get email alerts for critical updates and reminders.</li>
+            </ul>
+        </section>
+        
+        <section class="- topic/section ">
+            <title class="- topic/title ">Collaboration</title>
+            <p class="- topic/p ">Work seamlessly with team members and collaborate in real-time:</p>
+            <ul class="- topic/ul ">
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Shared Projects:</b> Share projects with team members to collaborate on tasks.</li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Comments:</b> Add comments to tasks to provide feedback and updates.</li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Real-Time Updates:</b> See real-time updates and changes made by team members.</li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Permissions:</b> Set permissions and access levels for different team members.</li>
+            </ul>
+        </section>
+        
+        <section class="- topic/section ">
+            <title class="- topic/title ">Integrations</title>
+            <p class="- topic/p ">Enhance your productivity by integrating with other tools and services:</p>
+            <ul class="- topic/ul ">
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Calendar Integration:</b> Sync tasks and due dates with your calendar.</li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Email Integration:</b> Create tasks from emails and get notifications in your inbox.</li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">Third-Party Apps:</b> Connect with popular third-party applications to streamline your workflow.</li>
+                <li class="- topic/li "><b class="+ topic/ph hi-d/b ">API Access:</b> Use API access to build custom integrations and automations.</li>
+            </ul>
+        </section>
+    </body>
+</topic></topic><topic xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" break-before="true" is-chapter="true" class="+ topic/topic pdf2-d/placeholder " id="d93e73" topicrefclass="+ map/topicref mapgroup-d/topichead "><title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Create and Manage Tasks</ph></title><task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="task-management" oid="task-management" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">How to Create and Manage Tasks</ph></title>
+    <shortdesc class="- topic/shortdesc ">
+        <p class="- topic/p ">Learn how to create and manage tasks in <b class="+ topic/ph hi-d/b ">Productivity Plus</b> to stay organized and efficient.</p>
+    </shortdesc>
+    <prereq class="- topic/section task/prereq ">
+        <p class="- topic/p ">Before you begin, ensure that you have installed <b class="+ topic/ph hi-d/b ">Productivity Plus</b> and have an active account.</p>
+    </prereq>
+    <steps class="- topic/ol task/steps ">
+        <step class="- topic/li task/step ">
+            <cmd class="- topic/ph task/cmd ">Create a new task:</cmd>
+            <substeps class="- topic/ol task/substeps ">
+                <substep class="- topic/li task/substep ">
+                    <cmd class="- topic/ph task/cmd ">Open <b class="+ topic/ph hi-d/b ">Productivity Plus</b> and navigate to the task management section.</cmd>
+                </substep>
+                <substep class="- topic/li task/substep ">
+                    <cmd class="- topic/ph task/cmd ">Click the "New Task" button.</cmd>
+                </substep>
+                <substep class="- topic/li task/substep ">
+                    <cmd class="- topic/ph task/cmd ">Enter the task name in the "Task Name" field.</cmd>
+                </substep>
+                <substep class="- topic/li task/substep ">
+                    <cmd class="- topic/ph task/cmd ">Optionally, add a description, due date, and assign labels.</cmd>
+                </substep>
+                <substep class="- topic/li task/substep ">
+                    <cmd class="- topic/ph task/cmd ">Click "Save" to create the task.</cmd>
+                </substep>
+            </substeps>
+        </step>
+        <step class="- topic/li task/step ">
+            <cmd class="- topic/ph task/cmd ">Manage existing tasks:</cmd>
+            <substeps class="- topic/ol task/substeps ">
+                <substep class="- topic/li task/substep ">
+                    <cmd class="- topic/ph task/cmd ">To edit a task, click on the task name in the task list.</cmd>
+                </substep>
+                <substep class="- topic/li task/substep ">
+                    <cmd class="- topic/ph task/cmd ">Make the necessary changes and click "Save".</cmd>
+                </substep>
+                <substep class="- topic/li task/substep ">
+                    <cmd class="- topic/ph task/cmd ">To delete a task, click the "Delete" button next to the task name and confirm the deletion.</cmd>
+                </substep>
+                <substep class="- topic/li task/substep ">
+                    <cmd class="- topic/ph task/cmd ">To mark a task as complete, check the box next to the task name.</cmd>
+                </substep>
+            </substeps>
+        </step>
+    </steps>
+    <result class="- topic/section task/result ">
+        <p class="- topic/p ">By following these steps, you can efficiently create and manage tasks in <b class="+ topic/ph hi-d/b ">Productivity Plus</b>, ensuring that you stay organized and on top of your responsibilities.</p>
+    </result>
+    <example class="- topic/example ">
+        <title class="- topic/title ">Example</title>
+        <p class="- topic/p ">For a detailed walkthrough, watch the following video guide: <xref class="- topic/xref " format="html" href="task-management-video-guide" scope="external"><?ditaot usertext?>Task Management Video Guide</xref>.</p>
+    </example>
+</task></topic></map>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task-management">
+    <title>How to Create and Manage Tasks</title>
+    <shortdesc>
+        <p>Learn how to create and manage tasks in <b>Productivity Plus</b> to stay organized and efficient.</p>
+    </shortdesc>
+    <prereq>
+        <p>Before you begin, ensure that you have installed <b>Productivity Plus</b> and have an active account.</p>
+    </prereq>
+    <steps>
+        <step>
+            <cmd>Create a new task:</cmd>
+            <substeps>
+                <substep>
+                    <cmd>Open <b>Productivity Plus</b> and navigate to the task management section.</cmd>
+                </substep>
+                <substep>
+                    <cmd>Click the "New Task" button.</cmd>
+                </substep>
+                <substep>
+                    <cmd>Enter the task name in the "Task Name" field.</cmd>
+                </substep>
+                <substep>
+                    <cmd>Optionally, add a description, due date, and assign labels.</cmd>
+                </substep>
+                <substep>
+                    <cmd>Click "Save" to create the task.</cmd>
+                </substep>
+            </substeps>
+        </step>
+        <step>
+            <cmd>Manage existing tasks:</cmd>
+            <substeps>
+                <substep>
+                    <cmd>To edit a task, click on the task name in the task list.</cmd>
+                </substep>
+                <substep>
+                    <cmd>Make the necessary changes and click "Save".</cmd>
+                </substep>
+                <substep>
+                    <cmd>To delete a task, click the "Delete" button next to the task name and confirm the deletion.</cmd>
+                </substep>
+                <substep>
+                    <cmd>To mark a task as complete, check the box next to the task name.</cmd>
+                </substep>
+            </substeps>
+        </step>
+    </steps>
+    <result>
+        <p>By following these steps, you can efficiently create and manage tasks in <b>Productivity Plus</b>, ensuring that you stay organized and on top of your responsibilities.</p>
+    </result>
+    <example>
+        <title>Example</title>
+        <p>For a detailed walkthrough, watch the following video guide: <xref href="task-management-video-guide" scope="external" format="html">Task Management Video Guide</xref>.</p>
+    </example>
+</task>
